@@ -8,4 +8,4 @@ $ brain-even
 
 Install:
 $ sudo npm -g install brain-games-ewwwgeny
-<script id="asciicast-xxEz8Y25wPPi30AN4Wz40R2HZ" src="https://asciinema.org/a/xxEz8Y25wPPi30AN4Wz40R2HZ.js" async></script>
+[![asciicast](https://asciinema.org/a/xxEz8Y25wPPi30AN4Wz40R2HZ.svg)](https://asciinema.org/a/xxEz8Y25wPPi30AN4Wz40R2HZ)
